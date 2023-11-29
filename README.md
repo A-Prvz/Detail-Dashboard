@@ -1,10 +1,13 @@
-# React & Tailwind CSS Starter Pack
+## Employee Directory React App
+This is a simple React application that fetches employee data from a mock API and displays it in a user-friendly directory. The app features a responsive design, a search bar for filtering employees based on their names, and detailed information about the selected employee.
 
-This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
+## Features:
+1. User List: Displays a list of employees with their avatars, names, and job titles.
+1. Search Functionality: Enables users to search for employees by their first or last names, updating the list in real-time.
+1. User Details: Shows detailed information about the selected employee, including their full name, job title, email, and a short bio.
+
 
 ## Usage
-
-This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
 
 1. Clone the repository to your local machine.
    
@@ -20,7 +23,6 @@ This starter pack includes a basic setup for using **Tailwind CSS with React**. 
     ```
 1. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view the project.
 
-The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
 
 ## Contributing
 
